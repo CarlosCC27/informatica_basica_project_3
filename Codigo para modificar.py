@@ -1,3 +1,3 @@
 print("Si mira hola buenas tardes")
-print("Carlos bobo")
+print("Carlos Listo")
 print("ok i pull up")
